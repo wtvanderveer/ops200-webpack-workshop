@@ -46,6 +46,7 @@ React and webpack are working!
 | ----------------------------- | --------------------------------------------- |
 | `npm run build`               | Bundles `src/` into `dist/` in development mode |
 | `npm start`                   | Builds, then runs `node server.js`            |
+| `npm test`                    | Builds, then runs the Mocha tests in `test/`  |
 | `npx webpack --mode production` | Builds a minified production bundle         |
 
 ## Deploying to Render
